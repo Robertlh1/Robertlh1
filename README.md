@@ -1,6 +1,5 @@
-### Hi there 👋
+### Hey there! 👋
 
-# Welcome :wave:
 ### My Tech Stack
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tyl3r-Engel&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 ##### FrontEnd <br />
